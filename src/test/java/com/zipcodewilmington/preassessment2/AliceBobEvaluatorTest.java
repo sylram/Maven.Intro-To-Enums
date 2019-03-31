@@ -21,7 +21,6 @@ public class AliceBobEvaluatorTest {
         Assert.assertFalse(isAlice);
         Assert.assertFalse(isBob);
     }
-
     @Test
     public void testWilhem() {
         // Given
